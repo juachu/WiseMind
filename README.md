@@ -1,5 +1,4 @@
 # WiseMind
-
 Dialetical Behavioral Therapy: Android Application 
 * this app was created to be used by people undergoing DBT therapy of struggling with bipolar disorder.
 
